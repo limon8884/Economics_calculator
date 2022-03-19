@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="switch1">p(q)</string>
+    <string name="linear_equilibrium">Linear equilibrium</string>
+    <string name="simplify">simplify</string>
+    <string name="plus">+</string>
+</resources>
